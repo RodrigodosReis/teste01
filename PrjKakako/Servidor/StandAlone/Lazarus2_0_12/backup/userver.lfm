@@ -1,0 +1,10 @@
+object frmServer: TfrmServer
+  Left = 605
+  Height = 341
+  Top = 172
+  Width = 563
+  BorderStyle = bsDialog
+  Caption = 'Servidor de Aplicação '
+  Position = poDesktopCenter
+  LCLVersion = '2.0.12.0'
+end
